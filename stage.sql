@@ -1,6 +1,6 @@
-select * from table1 
+select * from table0 
+union
+select * from table1
 union
 select * from table2
-union
-select * from table3
 
